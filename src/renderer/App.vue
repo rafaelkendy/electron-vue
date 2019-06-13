@@ -6,7 +6,7 @@
 
 <script>
 export default {
-  name: 'MilagroStudy'
+  name: 'ElectronVue'
 }
 </script>
 

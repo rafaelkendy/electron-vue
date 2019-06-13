@@ -1,4 +1,4 @@
-# milagro-study
+# electron-vue
 
 > An electron-vue project
 
