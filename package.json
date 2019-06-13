@@ -1,5 +1,5 @@
 {
-  "name": "milagro-study",
+  "name": "electron-vue",
   "version": "0.0.1",
   "author": "Kendy <rafael.kendy@amad.re>",
   "description": "An electron-vue project",
@@ -22,7 +22,7 @@
     "postinstall": "npm run lint:fix"
   },
   "build": {
-    "productName": "milagro-study",
+    "productName": "electron-vue",
     "appId": "com.example.yourapp",
     "directories": {
       "output": "build"
